@@ -15,6 +15,8 @@ I grew up in Maryland, moved to Raleigh for about 5 years and now live in Johnso
 I also went to NC State for undergrad where I majored in Math and Statistics. 
 I **LOVE** my Wolfpack and try to get back to Raleigh for at least one football game and one basketball game every season
   
+  ![]("C:\Users\Jackie\Documents\Github pics\Lauren Jacks Shan Football.jpg")
+  
 My husband's name is Andy, he's a chemical engineer. We met at State and have been married for 3 years, he's the best!!
   
 I have a black and white cat named Oliver and a black lab mix named Scout. Scout loves Oliver and Oliver ~~likes~~ tolerates Scout.  I'm pretty sure Oliver really does like Scout, he just doesn't want us to know.
