@@ -15,7 +15,7 @@ I grew up in Maryland, moved to Raleigh for about 5 years and now live in Johnso
 I also went to NC State for undergrad where I majored in Math and Statistics. 
 I **LOVE** my Wolfpack and try to get back to Raleigh for at least one football game and one basketball game every season
   
-  ![Go Pack!](/images/Lauren Jacks Shan Football.jpg)
+  ![](/images/Football.jpg)
   
 My husband's name is Andy, he's a chemical engineer. We met at State and have been married for 3 years, he's the best!!
   
