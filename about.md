@@ -23,4 +23,4 @@ I never found a quarantine hobby, I ~~tried~~ failed at making macarons, ran out
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jntierne@ncsu.edu](mailto:jntierne@ncsu.edu)
