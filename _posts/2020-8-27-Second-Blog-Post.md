@@ -9,10 +9,10 @@ title: Second Blog Post: Thoughts on R
 There are definitely pros and cons to R, I like that you can do simple calculations in a single line, like matlab, but when it comes to statistically programming SAS makes a little more sense to me.  
   
 ## What functionality do you like about R?  
-I like that you are able to do quick math in R and that there is a ton of data preloaded with the base package and other packages that are pretty easy to load in  
+I like that you are able to do quick math in R and that there is a ton of data preloaded with the base package and other packages that are pretty easy to load in. I also like that you dont have to end every statement with some sort of delimiter.  
   
 ## What parts do you miss about your other language?  
-Most of my experience has been in SAS or more point and click software, like Tableau. I miss the structure of SAS. When you work in SAS you can tell what each section is there for and have a general idea of what the output will look like.
+Most of my experience has been in SAS or more point and click software, like Tableau. I miss the structure of SAS. When you work in SAS you can tell what each section is there for and have a general idea of what the output will look like. One thing that really messes me up is that R is case sensitive where SAS is not.
   
 ## Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)  
 I had done a little bit of work in R in previous classes and when I first started working in R I was completely lost. I basically copied and pasted code from lectures and used google to figure out how to make the chages I wanted.  
