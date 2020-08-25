@@ -1,3 +1,8 @@
+---
+layout: post
+title: Second Blog Post: Thoughts on R
+---
+
 # Thoughts on R
 
 ## What are your thoughts on R vs whatever other software you've used?  
