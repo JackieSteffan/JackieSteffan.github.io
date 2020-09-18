@@ -17,5 +17,5 @@ What is your big takeaway for future projects?
 I think to not be afraid to ask questions. I sometimes felt like I was the only person struggling with this project because no one else was asking questions on the discussion board. I worried that my peers would think I was dumb for posting so many issues, but in reality, if I was struggling with something, someone else probably was too.  
   
   
-File: [https://jackiesteffan.github.io/Hockey/](https://jackiesteffan.github.io/Hockey/)
+File: [https://jackiesteffan.github.io/Hockey/](https://jackiesteffan.github.io/Hockey/)  
 Repository: [https://github.com/JackieSteffan/Hockey](https://github.com/JackieSteffan/Hockey)  
