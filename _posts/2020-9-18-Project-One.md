@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hockey Project
+---
+
 # Hockey Project  
   
 In my project I made functions to connect to 8 hockey related APIs. I then made a wrapper function and did some analytics on the data.  
