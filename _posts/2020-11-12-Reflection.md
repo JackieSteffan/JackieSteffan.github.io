@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 2
+title: Reflection
 ---
 
 ## What (if anything) has changed about what you think a data scientist is and what they do.  
